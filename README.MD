@@ -36,4 +36,4 @@ Discord: [KS Studio](https://discord.gg/CzvAPktpns)
 
 ## License
 
-[MIT](https://github.com/korpens1/KZ_Scoreboard-UI/blob/main/LICENSE.txt)
+[MIT](https://github.com/korpens1/KZ_Scoreboard-UI/blob/main/license.txt)
