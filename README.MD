@@ -31,3 +31,9 @@ Discord: [KS Studio](https://discord.gg/CzvAPktpns)
 > [kezhost.pl](https://kezhost.pl) &nbsp;&middot;&nbsp;
 > GitHub [@korpens1](https://github.com/korpens1) &nbsp;&middot;&nbsp;
 > Youtube [@korpens](https://www.youtube.com/channel/UCLvxS06h9HKl475rvZ5xq5g)
+> 
+---
+
+## License
+
+[MIT](https://github.com/korpens1/KZ_Scoreboard-UI/blob/main/LICENSE.txt)
