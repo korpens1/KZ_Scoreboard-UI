@@ -12,7 +12,8 @@ Simple UI for fivem scoreboard. Only HTML & CSS
 
 <p align="center">
   <a href="#contact">Contact</a> •
-  <a href="#support-me">Support Me</a>
+  <a href="#support-me">Support Me</a> •
+  <a href="#license">License</a>
 </p>
 
 ![screenshot](https://kezhost.pl/github/img/UI.png)
